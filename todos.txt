@@ -1,3 +1,2 @@
 gun
-sneak
 make website
